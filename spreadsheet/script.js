@@ -42,3 +42,4 @@ window.onload = () => {
     });
   });
 };
+// restarted this lesson after learning about regular expressions, algorithmic thinking, and array methods!
